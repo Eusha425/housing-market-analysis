@@ -75,7 +75,7 @@ housing-market-analysis/
 ## 🚀 Setup and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[Eusha425]/housing-market-analysis.git
+   git clone https://github.com/Eusha425/housing-market-analysis.git
    ```
 
 2. Install required packages:
