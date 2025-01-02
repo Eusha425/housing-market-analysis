@@ -66,7 +66,7 @@ Ridge Regression emerged as the optimal model, demonstrating:
 ```
 housing-market-analysis/
 │
-├── Housing_Price_Prediction.ipynb    # Main Jupyter notebook
+├── Housing_Price_Prediction.ipynb   # Main Jupyter notebook
 ├── README.md                        # Project documentation
 └── data/                           
     └── Housing.csv                  # Dataset file
